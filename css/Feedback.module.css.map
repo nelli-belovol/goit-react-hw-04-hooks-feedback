@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,SAAS,CAAC;EACR,OAAO,EAAE,IAAI;EACb,cAAc,EAAE,MAAM;EACtB,SAAS,EAAE,GAAG;EACd,MAAM,EAAE,MAAM;CACf",
+    "sources": [
+        "../src/component/Feedback/Feedback.module.scss"
+    ],
+    "names": [],
+    "file": "Feedback.module.css"
+}

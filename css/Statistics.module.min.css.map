@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,kBAAkB,AAAC,CACjB,WAAW,CAAE,IAAI,CACjB,WAAW,CAAE,GAAG,CACjB",
+    "sources": [
+        "../src/component/Feedback/Statistics/Statistics.module.scss"
+    ],
+    "names": [],
+    "file": "Statistics.module.min.css"
+}

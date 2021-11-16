@@ -1,0 +1,7 @@
+.feedback {
+  display: flex;
+  flex-direction: column;
+  max-width: 20%;
+  margin: 0 auto;
+}
+/*# sourceMappingURL=Feedback.module.css.map */
